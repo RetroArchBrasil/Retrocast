@@ -1,0 +1,1 @@
+Conteúdo simulado de start_server.bat

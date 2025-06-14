@@ -1,0 +1,1 @@
+Conteúdo simulado de arcade_core.js
