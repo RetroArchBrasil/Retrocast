@@ -1,1 +1,0 @@
-Conteúdo simulado de megadrive_core.js

@@ -1,1 +1,0 @@
-Conteúdo simulado de mastersystem_core.js
